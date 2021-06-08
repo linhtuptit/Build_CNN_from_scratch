@@ -10,22 +10,18 @@ This project is based on the assignment #4 of CSCI-5561 and written by Python la
 
 # Single-layer Linear Perceptron
 This function is to implement a single-layer linear perceptron with stochastic gradient descent method.
-
 ![hard_clipper.jpg](/output/slp_linear.png?raw=true)
 
 # Single-layer Perceptron
 This function is to implement a single-layer perceptron with soft-max cross-entropy using stochastic gradient descent method.
-
 ![hard_clipper.jpg](/output/slp.png?raw=true)
 
 # Multi-layer Perceptron
 This function is to implement a multi-layer perceptron with a single hidden layer using a stochastic gradient descent method.
-
 ![hard_clipper.jpg](/output/mlp.png?raw=true)
 
 # Convolutional Neural Network
 This function is to implement a convolutional neural network (CNN) using a stochastic gradient descent method.
-
 ![hard_clipper.jpg](/output/cnn.png?raw=true) 
 
 # Reference
